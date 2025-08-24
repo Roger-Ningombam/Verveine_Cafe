@@ -1,5 +1,5 @@
 {
-      "name": "Ultimate Interactive Café Experience",
+      "name": "Verveine Café",
       "version": "0.1.0",
       "private": true,
       "dependencies": {
@@ -59,7 +59,7 @@
       },
       "scripts": {
             "dev": "vite",
-            "build": "vite build",
+            "build": "npx vite build",
             "deploy": "gh-pages -d build --no-history"
       }
 }
