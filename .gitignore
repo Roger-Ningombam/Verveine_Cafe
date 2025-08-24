@@ -25,7 +25,6 @@ dist-ssr
 
 # Build output
 /dist
-/build
 
 # Environment variables
 .env
